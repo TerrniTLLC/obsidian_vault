@@ -1,0 +1,16 @@
+- [x] Dark / Light mode ✅ 2023-12-14
+- [x] connect with google translator api and show translation on client (show in bubble) ✅ 2023-12-14
+- [x] Add menu and add link to "Films" page ✅ 2023-12-14
+- [ ] Create page with list of films to watch with my girlfriend -(connect to backend / cms)
+	- Firebase / CMS (Notion, maybe) 
+		- VueFire - https://vuefire.vuejs.org/
+		- VueNotion 
+			- https://github.com/janniks/vue-notion
+			- https://github.com/splitbee/notion-api-worker 
+- [ ] Add i18n (korean, chinese and english interface)
+- [ ] Add double select component for choosing target language and souce language
+	- Chinese, Russian, Korean, English 
+	- (Chinese - Russian, Chinese - Korean, Chinese - English)
+	- (Russian - Chinese, Russian - Korean, Russian - English)
+	- (Korean - Chinese, Korean - Russian, Korean - English)
+	- (English - Chinese, English - Russian, English - Korean)

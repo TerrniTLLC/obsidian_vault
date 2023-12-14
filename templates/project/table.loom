@@ -1,0 +1,229 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "47ef4ca9-92b1-41a2-bb73-35cd3dc6337d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Tech-stack",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "count-all",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "bd35960f-f54e-46fe-bda0-08a505f871e9",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Name",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "count-not-empty",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "7214aec2-13d4-471f-8e5e-7a2caa5f5c1f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Description",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "percent-empty",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "40394fa4-1234-4e8e-8e37-0c1fdf9c9ade",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Tags",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "a56cc56f-a02f-42c6-9696-1c1f39193f01",
+            "content": "React Native",
+            "color": "blue"
+          },
+          {
+            "id": "97a0e7d6-d944-4936-9e85-44d9e31d88c7",
+            "content": "React",
+            "color": "blue"
+          },
+          {
+            "id": "ecafd6e1-abec-43ef-9009-395158709103",
+            "content": "Quasar",
+            "color": "blue"
+          },
+          {
+            "id": "0bb9a2e2-c48f-4fd4-b19a-0f6f73fd28b2",
+            "content": "Capacitor",
+            "color": "blue"
+          },
+          {
+            "id": "564dd9dd-d343-42ee-83c6-b02650e753f8",
+            "content": "Angular",
+            "color": "red"
+          },
+          {
+            "id": "91aa0460-7b98-44a9-b79c-b27eceda7f40",
+            "content": "Vue",
+            "color": "green"
+          },
+          {
+            "id": "7fe6f266-f74c-43c2-9363-2b8b44615757",
+            "content": "Svelte",
+            "color": "orange"
+          },
+          {
+            "id": "f8165789-78bb-42da-9d7e-312a7ce6e05b",
+            "content": "UI",
+            "color": "purple"
+          },
+          {
+            "id": "de033b4a-0d29-40f8-99cd-47d9ad68abe4",
+            "content": "UX",
+            "color": "purple"
+          },
+          {
+            "id": "90f11249-915b-4fb3-aea3-cb5535824b4c",
+            "content": "Rust",
+            "color": "orange"
+          }
+        ],
+        "calculationType": "percent-empty",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "5beb3171-d203-4dba-9286-ccdf24a45c03",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2023-12-14T08:30:55.821Z",
+        "lastEditedDateTime": "2023-12-14T08:35:39.746Z",
+        "cells": [
+          {
+            "id": "84ad6afc-f621-4f26-9187-855e025c7c93",
+            "columnId": "47ef4ca9-92b1-41a2-bb73-35cd3dc6337d",
+            "content": "$cur",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a61d7887-e5ef-4609-b142-2bbca9802a90",
+            "columnId": "bd35960f-f54e-46fe-bda0-08a505f871e9",
+            "content": "...",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c5139329-a5db-4be7-bccf-ca1b4c6288d2",
+            "columnId": "7214aec2-13d4-471f-8e5e-7a2caa5f5c1f",
+            "content": "...",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "27389c8d-7150-496a-9fca-f8849656e83d",
+            "columnId": "40394fa4-1234-4e8e-8e37-0c1fdf9c9ade",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2ff06228-8b73-446d-b537-689bde74e3de",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2023-12-14T08:37:46.220Z",
+        "lastEditedDateTime": "2023-12-14T08:37:46.220Z",
+        "cells": [
+          {
+            "id": "7e71c99b-742e-4555-b93e-fec2464b019e",
+            "columnId": "47ef4ca9-92b1-41a2-bb73-35cd3dc6337d",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "89fc0a97-f430-4b15-910c-538fe35436ba",
+            "columnId": "bd35960f-f54e-46fe-bda0-08a505f871e9",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dad50ac4-086f-4f06-ac0a-5c924b618ef2",
+            "columnId": "7214aec2-13d4-471f-8e5e-7a2caa5f5c1f",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "20fc61b0-d764-4e66-a90f-66f211dce7ee",
+            "columnId": "40394fa4-1234-4e8e-8e37-0c1fdf9c9ade",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.8"
+}
